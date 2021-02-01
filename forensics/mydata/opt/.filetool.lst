@@ -1,0 +1,8 @@
+opt
+home
+/usr/local/etc/ssh
+/etc/passwd
+/etc/shadow
+/etc/hostname
+/usr/local/etc/nginx
+/usr/local/etc/init.d/nginx
