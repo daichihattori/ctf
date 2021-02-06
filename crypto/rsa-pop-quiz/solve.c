@@ -8,7 +8,7 @@ int isPrime(mpz_t a){
     return 1;
 }
 int is2Mod3(mpz_t a){
-
+    mpz_mod()
 }
 int main(){
     return 0;
